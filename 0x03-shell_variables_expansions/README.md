@@ -1,0 +1,1 @@
+*A Read me file fir shell ,init files ,variables and expansions"*
